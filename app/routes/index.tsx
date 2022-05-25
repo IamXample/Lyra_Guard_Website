@@ -11,7 +11,7 @@ export default function Index() {
             <div className="absolute inset-0">
               <img
                 className="h-full w-full object-cover"
-                src="https://user-images.githubusercontent.com/8431042/161311608-f5d43ab2-85b4-40c5-9dea-065985e5adf5.jpeg"
+                src="https://i.imgur.com/s1jEMyU.png"
                 alt="BTS playing on stage with the group leaving in action poses"
               />
               <div className="absolute inset-0 bg-[color:rgba(139,92,246,0.5)] mix-blend-multiply" />
